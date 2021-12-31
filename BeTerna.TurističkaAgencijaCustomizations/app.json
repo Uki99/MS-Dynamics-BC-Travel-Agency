@@ -1,0 +1,27 @@
+{
+  "id": "de9a1967-1172-4d03-a404-711a5abbf6d2",
+  "name": "BE-terna Turistička Agencija Customizations",
+  "publisher": "BE-terna d.o.o.",
+  "version": "19.2.0.2021123101",
+  "brief": "BE-terna's Turistička Agencija Customizations",
+  "description": "BE-terna's App for Turistička Agencija Customizations",
+  "privacyStatement": "https://www.be-terna.com/legal",
+  "EULA": "https://www.be-terna.com/legal",
+  "help": "https://www.be-terna.com/legal",
+  "url": "https://www.be-terna.com/legal",
+  "logo": "./logo/BET.216x216.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 1000000,
+      "to": 1000050
+    }
+  ],
+  "features": ["TranslationFile"],
+  "contextSensitiveHelpUrl": "https://dev.azure.com/UgljesaCiric/_git/Turisti%C4%8Dka%20agencija",
+  "resourceExposurePolicy": { "allowDebugging": true, "allowDownloadingSource": false, "includeSourceInSymbolFile": true },
+  "runtime": "8.0"
+}
