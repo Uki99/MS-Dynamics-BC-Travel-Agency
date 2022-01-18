@@ -9,6 +9,7 @@
         "./.netpackages",
         "c:/Windows/assembly/"
     ], 
+    "al.ruleSetPath": "ruleset.json",
     "CRS.ObjectNamePrefix": "BET TA ",
     "CRS.RemoveUnderscoreFromFilename": true,
     "CRS.RemovePrefixFromFilename": false,

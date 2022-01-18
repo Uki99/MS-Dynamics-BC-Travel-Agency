@@ -1,7 +1,9 @@
+# Introduction and Explanation
+This is an internal practice task i got on topic of Travel Agency. Bellow is the task requirements as recieved in e-mail from my mentor.
+
 # Uvod
 
-Zadatak je pisan za NAV (npr. MenuSuite), ali napravi kompatibilno i za NAV i BC.
-Radiš na NAV 2018 i BC koji imaš kod sebe.
+Zadatak je pisan za NAV (npr. MenuSuite), ali napravi kompatibilno i za NAV 2018 i BC.
 Rok: Nekoliko dana, ali videćemo kako ide.
 
 ## Zadatak: Turistička agencija 
